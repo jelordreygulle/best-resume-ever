@@ -3,7 +3,7 @@
   <a href="https://github.com/salomonelli/best-resume-ever">
   <img src="src/assets/logo.png" alt="Markdownify" width="200"></a>
   <br>
-  best-resume-ever
+  Resume Builder
   <br>
 </h1>
 
